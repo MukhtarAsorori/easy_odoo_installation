@@ -17,7 +17,7 @@
 # Choose the Odoo version which you want to install. For example: 16.0, 15.0, 14.0 or saas-22. When using 'master' the master version will be installed.
 # IMPORTANT! This script contains extra libraries that are specifically needed for Odoo 17.0
 OE_VERSION="17.0"
-OE_USER="odoo${OE_VERSION}"
+OE_USER="odoo17"
 OE_HOME="/$OE_USER"
 OE_HOME_EXT="/odoo/${OE_USER}"
 # The default port where this Odoo instance will run under (provided you use the command -c in the terminal)
